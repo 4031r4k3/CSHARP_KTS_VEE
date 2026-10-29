@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\ProjectsVisualStudio\KT2IfAndElse\bin\Debug\KT2IfAndElse.exe.config
+C:\Users\User\Desktop\ProjectsVisualStudio\KT2IfAndElse\bin\Debug\KT2IfAndElse.exe
+C:\Users\User\Desktop\ProjectsVisualStudio\KT2IfAndElse\bin\Debug\KT2IfAndElse.pdb
+C:\Users\User\Desktop\ProjectsVisualStudio\KT2IfAndElse\obj\Debug\KT2IfAndElse.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ProjectsVisualStudio\KT2IfAndElse\obj\Debug\KT2IfAndElse.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ProjectsVisualStudio\KT2IfAndElse\obj\Debug\KT2IfAndElse.exe
+C:\Users\User\Desktop\ProjectsVisualStudio\KT2IfAndElse\obj\Debug\KT2IfAndElse.pdb
