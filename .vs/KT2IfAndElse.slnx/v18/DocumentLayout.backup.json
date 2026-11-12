@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{89644E29-72A8-4117-8760-D024A239A6C0}|KT2IfAndElse.csproj|c:\\users\\user\\desktop\\projectsvisualstudio\\kt2ifandelse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89644E29-72A8-4117-8760-D024A239A6C0}|KT2IfAndElse.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89644E29-72A8-4117-8760-D024A239A6C0}|KT2IfAndElse.csproj|c:\\users\\user\\desktop\\projectsvisualstudio\\kt2ifandelse\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89644E29-72A8-4117-8760-D024A239A6C0}|KT2IfAndElse.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,12 +30,25 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProjectsVisualStudio\\KT2IfAndElse\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ProjectsVisualStudio\\KT2IfAndElse\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProjectsVisualStudio\\KT2IfAndElse\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-24T16:09:14.303Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProjectsVisualStudio\\KT2IfAndElse\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProjectsVisualStudio\\KT2IfAndElse\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T13:54:35.45Z",
               "EditorCaption": ""
             }
           ]

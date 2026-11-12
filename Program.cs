@@ -12,7 +12,7 @@ namespace KT2IfAndElse
     {
         static void Main(string[] args)
         {
-            Ex4();
+           
         }
         private static void Ex4()
         {
